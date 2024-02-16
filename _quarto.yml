@@ -3,7 +3,7 @@ project:
 
 website:
   title: "From The Desk of Rylyn"
-  site-url: https://www.TheDeskOfRylyn.com
+  site-url: https://github.com/RylynWill/DeskOfRylyn.git
   
   navbar:
     right:
